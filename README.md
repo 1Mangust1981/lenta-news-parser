@@ -1,3 +1,4 @@
+![CI Status](https://github.com/1Mangust1981/lenta-news-parser/actions/workflows/python-app.yml/badge.svg)
 # Lenta.ru News Parser
 
 Этот проект парсит новости с сайта [Lenta.ru](https://lenta.ru), извлекает заголовки, даты и ссылки, и сохраняет их в CSV-файл.
