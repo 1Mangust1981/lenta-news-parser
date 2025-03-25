@@ -44,4 +44,4 @@ title,date,url
 mangust1981
 
 ## Лицензия
-MIT. Подробности в `LICENSE`.
+MIT. Подробности в `LICENSE`. 
